@@ -60,7 +60,11 @@ const abhijeet = {
 | [🎓 College Management](https://github.com/rishuuuuuuuuuuuu-90/collegemanagement) | JavaScript | Because spreadsheets are so last century |
 | [💊 Medswiftz](https://github.com/rishuuuuuuuuuuuu-90/medswiftz) | TypeScript | Healthcare UI that doesn't look like it's from 2003 |
 | [📊 Student Prediction App](https://github.com/rishuuuuuuuuuuuu-90/student-Prediction-app) | JavaScript | Predicts your grades (you're welcome) |
-| [finance tracker with ai insight]( https://github.com/rishuuuuuuuuuu-90/finance-tracker-with-AI-insight.git) | 
+| [finance tracker with ai insight]( https://github.com/rishuuuuuuuuuu-90/finance-tracker-with-AI-insight.git)Frontend: React.js
+Backend: Node.js, Express.js
+Database: MongoDB Atlas
+AI Integration: Google Gemini API
+Charts: Chart.js / Recharts | 
 
 
 ---
